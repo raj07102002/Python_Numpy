@@ -31,4 +31,11 @@
 # my_dict = {"x": 100, "y": 200}   # curly braces → dictionary
 # my_array = np.array(my_list)    # use () to call function, pass list []
 
-# print(my_array[1])              # Access element with []
+# print(my_array[1])              # Access element with [] 
+
+# Q.5 
+
+# for i in range(1, 1001, 100):
+#     l = list(range(i))
+#     t = tuple(range(i))
+#     print(f"{i} items → List: {sys.getsizeof(l)} bytes | Tuple: {sys.getsizeof(t)} bytes")
