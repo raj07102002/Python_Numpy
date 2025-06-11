@@ -49,3 +49,8 @@
 # b = [1, 2]
 # b.extend([3, 4])   # Adds items individually
 # # b becomes [1, 2, 3, 4]
+
+Q.7 
+# import numpy as np
+# arr = np.array([1, 2, 3])
+# print(arr.dtype)
