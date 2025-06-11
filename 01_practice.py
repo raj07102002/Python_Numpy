@@ -38,4 +38,14 @@
 # for i in range(1, 1001, 100):
 #     l = list(range(i))
 #     t = tuple(range(i))
-#     print(f"{i} items → List: {sys.getsizeof(l)} bytes | Tuple: {sys.getsizeof(t)} bytes")
+#     print(f"{i} items → List: {sys.getsizeof(l)} bytes | Tuple: {sys.getsizeof(t)} bytes") 
+
+# Q.6 
+
+# a = [1, 2]
+# a.append([3, 4])   # Adds the whole list as one item
+# # a becomes [1, 2, [3, 4]]
+
+# b = [1, 2]
+# b.extend([3, 4])   # Adds items individually
+# # b becomes [1, 2, 3, 4]
