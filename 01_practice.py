@@ -5,7 +5,19 @@
 #     l.append(a) 
 # print(l) 
 
-Q.2 
-import numpy as np
-arr=np.array([[1,2,3],[4,5,6],[7,8,9]])
-print(arr)
+# Q.2 
+# import numpy as np
+# arr=np.array([[1,2,3],[4,5,6],[7,8,9]])
+# print(arr) 
+
+# Q.3 
+
+# import numpy as np
+
+# # Create a 2D array
+# a = np.array([[1, 2], [3, 4]])
+
+# # Multiply every element by 2
+# b = a * 2
+
+# print(b)
