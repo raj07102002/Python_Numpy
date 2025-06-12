@@ -50,13 +50,19 @@
 # b.extend([3, 4])   # Adds items individually
 # # b becomes [1, 2, 3, 4]
 
-Q.7 
+# Q.7 
 # import numpy as np
 # arr = np.array([1, 2, 3])
 # print(arr.dtype) 
 
-Q.8 
+# Q.8 
 
-# Identical to the above
-arr=np.array([1+2j,3-4j],dtype='c8')
-arr.dtype
+# # Identical to the above
+# arr=np.array([1+2j,3-4j],dtype='c8')
+# arr.dtype 
+
+Q.9 
+
+import numpy as np
+arr=np.array([[1,2,3],[4,5,6],[7,8,9]])
+print(arr)
