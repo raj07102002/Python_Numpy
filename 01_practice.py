@@ -68,3 +68,4 @@
 # print(arr) 
 # print(arr[arr>5])
 # print(arr[arr%2==0])
+#print(arr[(arr>2) & (arr<8) & (arr%2==0)])
