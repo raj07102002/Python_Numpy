@@ -61,8 +61,10 @@
 # arr=np.array([1+2j,3-4j],dtype='c8')
 # arr.dtype 
 
-Q.9 
+# Q.9 
 
-import numpy as np
-arr=np.array([[1,2,3],[4,5,6],[7,8,9]])
-print(arr)
+# import numpy as np
+# arr=np.array([[1,2,3],[4,5,6],[7,8,9]])
+# print(arr) 
+# print(arr[arr>5])
+# print(arr[arr%2==0])
