@@ -53,4 +53,10 @@
 Q.7 
 # import numpy as np
 # arr = np.array([1, 2, 3])
-# print(arr.dtype)
+# print(arr.dtype) 
+
+Q.8 
+
+# Identical to the above
+arr=np.array([1+2j,3-4j],dtype='c8')
+arr.dtype
