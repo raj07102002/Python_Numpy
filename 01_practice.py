@@ -70,9 +70,17 @@
 # print(arr[arr%2==0])
 #print(arr[(arr>2) & (arr<8) & (arr%2==0)])
 
-Q.10 
+# Q.10 
 
-arr1=np.array([1,2,3,4])
-arr2=np.array([5,6,7,8])
-arr3=np.concatenate((arr1,arr2),dtype="float32")
-arr3
+# arr1=np.array([1,2,3,4])
+# arr2=np.array([5,6,7,8])
+# arr3=np.concatenate((arr1,arr2),dtype="float32")
+# arr3
+
+# Q.11 
+
+# # Add the value 
+# arr1=np.array([1,2,3,4])
+# arr2=np.array([5,6,7,8])
+# arr3=np.add(arr1,arr2)
+# (arr3)
